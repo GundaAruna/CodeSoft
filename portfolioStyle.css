@@ -1,0 +1,42 @@
+body{
+    background-color:white;
+}
+.d1{
+    display: flex;
+}
+.d2{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+a{
+    margin-right: 30px;
+    text-decoration: none;
+}
+.i1{
+    border-radius: 50%;
+}
+.b1{
+    background-color:purple;
+    color: white;
+    border-radius: 30%;
+    margin-right: 20px;
+}
+.h2{
+    color: orange;
+    margin-top: 90px;
+}
+.d3{
+    display: flex;
+
+}
+.d4{
+    width:60%;
+    height:50%;
+}
+.d5{
+    margin-bottom: 40px;
+}
+.p1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
